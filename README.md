@@ -9,7 +9,7 @@ This application provides hands-free mouse control using voice commands. It allo
 ![Application Screenshot](interface.png)
 
 ## Demo 
-  demo.mp4
+  [Demo Video](demo.mp4)
 
 ## ✨ Features
 
