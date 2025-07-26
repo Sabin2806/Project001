@@ -6,7 +6,7 @@
 
 This application provides hands-free mouse control using voice commands. It allows users to move the cursor, click, scroll, and perform other mouse actions through spoken instructions. The application features a visual representation of mouse movements and actions for better feedback.
 
-![Application Screenshot](assets/interface.png)
+![Application Screenshot](interface.png)
 
 ## ✨ Features
 
