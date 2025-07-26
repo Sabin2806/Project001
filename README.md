@@ -80,4 +80,6 @@ Add gesture recognition support
 Include more detailed logging and analytics
 
 Add multi-language support
+## Acknowledgments
+- Initial prototype inspired by [DeepSeek's voice-control implementation](https://github.com/deepseek-ai) (modified for enhanced visual feedback and mouse control precision).
 
